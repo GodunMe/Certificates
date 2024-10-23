@@ -1,1 +1,1 @@
-# TryHackMe Certification
+# Certificates
